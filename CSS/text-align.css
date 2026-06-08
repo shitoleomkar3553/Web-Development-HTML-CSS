@@ -1,0 +1,23 @@
+h1 {
+    text-align:center;
+    font-weight:normal;
+    text-decoration: red underline;
+    font-family: impact;
+}
+
+h2 {
+    text-align:end;
+    text-decoration:wavy red overline;
+}
+
+h3 {
+    text-align:end;
+    text-decoration:double green line-through;
+    font-family: fantasy;
+}
+
+p {
+    line-height: 1.5;
+    letter-spacing: normal;
+    font-family: Arial;
+}

@@ -1,0 +1,52 @@
+/* q1 */
+body {
+    background-color: wheat;
+    font-family: georgia;
+}
+
+/* q2 */
+p {
+    background-color:#A52A2A;
+    color:red;
+    line-height:30px;
+
+}
+/* q3 */
+h1 {
+    text-align:center
+}
+
+h2 {
+    text-align:center
+}
+
+h3 {
+    text-align:center;
+    color:black
+}
+
+h4 {
+    text-align:center
+}
+
+/* q6 */
+a {
+    color:rgb(0, 255, 0);
+    text-decoration:none;
+}
+
+/* 8 */
+textarea {
+    color:rgb(0,0,0);
+}
+/* q7 */
+button {
+    background-color: white;
+    color:blueviolet;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+
